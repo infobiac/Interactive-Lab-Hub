@@ -30,7 +30,7 @@ Image available [here](https://github.com/infobiac/Interactive-Lab-Hub/blob/mast
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
 
-As the professor mentioned in class, because I did not have a potentiometer and could not get to campus all weekend, I used my force sensitive resistor instead. I was able to get almost the whole range (i.e. when I began to press lightly the light lit up slightly, all the way to when I fully pressed and the LED lit brightly), but when fully pressed, the LED looked slightly dimmer than normal.
+As the professor mentioned in class, because I did not have a potentiometer and could not get to campus all weekend, I used my force sensitive resistor instead. I was able to get almost the whole range (i.e. when I began to press lightly the light lit up slightly, all the way to when I fully pressed and the LED lit brightly), but when fully pressed, the LED looked slightly dimmer than normal. I believe this to be because the force sensitive resistor provides a modicum of resistance even when fully pressed, decreasing the current running through the light.
 
 Video available [here](https://github.com/infobiac/Interactive-Lab-Hub/blob/master/labs/Lab01/files/force.MOV).
 
