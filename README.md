@@ -11,5 +11,5 @@ Completed Labs for Christophe Rimann
 
 
 2. [Christophe R's prelab 2](https://github.com/infobiac/Interactive-Lab-Hub/blob/master/prelabs/prelab2.pdf)
-3. [Christophe R's prelab 3](https://github.com/infobiac/Interactive-Lab-Hub/blob/master/prelabs/prelab3.pdf)
+3. [Christophe R's prelab 3](https://github.com/infobiac/Interactive-Lab-Hub/blob/master/prelabs/prelab3.MD)
 
